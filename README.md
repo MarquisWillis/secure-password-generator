@@ -12,9 +12,9 @@ When the user clicks the generate password button, a series of prompts display i
 - Password is generated based on user criteria
 - If selected size is not equal or between 8-128 characters, an alert pops up saying "invalid entry"
 
-```md
-![The Password Generator application displays a red button to "Generate Password".](.\Assets\password-generator-pic.png)
-```
+
+![The Password Generator application displays a red button to "Generate Password".](Assets\password-generator-pic.png)
+
 
 ## Credits
 
